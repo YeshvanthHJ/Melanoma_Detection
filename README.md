@@ -40,7 +40,7 @@ The data set contains the following diseases:
 
 
 ## Technologies Used
--library - Pandas, NumPy, matplotlib, seaborn, sklearn, r2_score, Ridge Regression, Lasso Regression
+-library - Pandas, NumPy, matplotlib, seaborn, tensorflow, keras
 -Tool - Google Colaborotary, Jupiter
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
